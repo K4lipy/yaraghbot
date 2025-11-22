@@ -17,7 +17,7 @@ telegram-bot/
 │
 ├── bot.py              # Main bot code
 ├── requirements.txt    # Dependencies
-├── .env.example        # Example environment file (no real token)
+├── .env      # Example environment file (no real token)
 ├── .gitignore          # Prevents sensitive files from being uploaded
 ```
 
